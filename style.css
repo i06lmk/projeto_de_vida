@@ -4,7 +4,7 @@
     --cor-de-fundo: #8B0000;
     --vermelho: #FF0000;
     --branco: #FFFFFF;
-    --botao-ativo: #FF0000;
+    --botao-ativo: rgba(255, 0, 0, 1);
     --botao-inativo: rgba(58, 55, 94, 0.2);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 
@@ -21,5 +21,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    max-width: 1200px;
+    width: 100%;
+    margin:0 auto;
 }
