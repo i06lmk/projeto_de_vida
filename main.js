@@ -130,9 +130,9 @@ for (let i = 0; i < botoes.length; i++) {
 
 // definição do tempo dos objetivos
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-10-05T00:00:00");
-const tempoObjetivo2 = new Date("2024-10-30T00:00:00");
-const tempoObjetivo3 = new Date("2024-11-05T00:00:00");
+const tempoObjetivo1 = new Date("2024-05-20T00:00:00");
+const tempoObjetivo2 = new Date("2024-11-20T00:00:00");
+const tempoObjetivo3 = new Date("2024-12-31T00:00:00");
 const tempoObjetivo4 = new Date("2024-12-30T00:00:00");
 
 //chamar uma função chamada calculaTempo(), que terá como parâmetro inicial de entrada o tempoObjetivo1.
@@ -161,9 +161,9 @@ Fim da 1ª explicação*/
 
 // definição do tempo dos objetivos
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-10-05T00:00:00");
-const tempoObjetivo2 = new Date("2024-10-30T00:00:00");
-const tempoObjetivo3 = new Date("2024-11-05T00:00:00");
+const tempoObjetivo1 = new Date("2024-05-20T00:00:00");
+const tempoObjetivo2 = new Date("2024-11-20T00:00:00");
+const tempoObjetivo3 = new Date("2024-12-31T00:00:00");
 const tempoObjetivo4 = new Date("2024-12-30T00:00:00");
 
 //automatizar o código, criar uma variável chamada tempos, que receberá uma lista.
@@ -185,10 +185,10 @@ for (let i = 0; i < contadores.length; i++) {
 
 // definição do tempo dos objetivos
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-04-30T00:00:00");
-const tempoObjetivo2 = new Date("2024-10-15T00:00:00");
-const tempoObjetivo3 = new Date("2024-12-06T00:00:00");
-const tempoObjetivo4 = new Date("2025-12-30T00:00:00");
+const tempoObjetivo1 = new Date("2024-05-20T00:00:00");
+const tempoObjetivo2 = new Date("2024-11-20T00:00:00");
+const tempoObjetivo3 = new Date("2024-12-31T00:00:00");
+const tempoObjetivo4 = new Date("2024-12-30T00:00:00");
 
 //automatizar o código, criar uma variável chamada tempos, que receberá uma lista.
 const tempos =
